@@ -1,4 +1,4 @@
-# flutter_mobil_programlama
+# Flutter Calculator
 
 A new Flutter project.
 
