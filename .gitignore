@@ -290,6 +290,7 @@ obj/
 # IntelliJ IDEA
 *.iml
 /out/
+.idea
 
 # User-specific configurations
 .idea/caches/
